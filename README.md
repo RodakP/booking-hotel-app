@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Przemysław Rodak</h1>
-<h3 align="center">The application allows you to search for a hotel in the city, book a visit, check the status of the reservation. After registration, you can add your own hotel/room as an owner. The "booking-hotel-app" application was created using:</h3>
+<p align="center">The application allows you to search for a hotel in the city, book a visit, check the status of the reservation. After registration, you can add your own hotel/room as an owner. The "booking-hotel-app" application was created using:</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind" />
+  </a>
+</p>
 </div>
 
 
